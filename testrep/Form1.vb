@@ -4,5 +4,7 @@
         MsgBox("test")
         'sdsds
         MsgBox("kedua")
+        'sdsds
+        MsgBox("xxx")
     End Sub
 End Class
